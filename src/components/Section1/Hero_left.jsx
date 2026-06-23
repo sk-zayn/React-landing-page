@@ -16,7 +16,7 @@ const Hero_left = () => {
         </h3>
       </div>
       <div className="text-7xl h-2/10">
-        <i class="ri-arrow-right-up-line"></i>
+        <i className="ri-arrow-right-up-line"></i>
       </div>
     </div>
   );
