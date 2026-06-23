@@ -4,9 +4,9 @@ import Hero_left from './Hero_left'
 
 const Hero = () => {
   return (
-    <div className='h-5/6 pb-4 px-12'>
-      <Hero_right />
+    <div className='h-5/6 pb-4 px-12 flex justify-between gap-5 items-center'>
       <Hero_left />
+      <Hero_right />
 
 
     </div>
