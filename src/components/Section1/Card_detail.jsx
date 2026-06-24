@@ -8,7 +8,7 @@ const Card_detail = (props) => {
                 <p id='para' className='mb-8 text-white '>Lorem ipsum dolor sit amet. lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa cumque molestias quis qui architecto iusto saepe delectus!</p>
                 <div className='flex justify-between mt-4'>
                     <button className='bg-blue-600 px-8 py-2 rounded-full text-white'>{props.tag}</button>
-                    <button className='bg-blue-600 px-3 py-2 rounded-full  text-white'><i class="ri-arrow-right-line"></i></button>
+                    <button className='bg-blue-600 px-3 py-2 rounded-full  text-white'><i className="ri-arrow-right-line"></i></button>
                 </div>
             </div>
         </div>
